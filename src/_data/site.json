@@ -1,13 +1,13 @@
 {
-  "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@hankchizljaw",
-  "authorName": "Andy Bell",
-  "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
+  "showThemeCredit": false,
+  "name": "Buildings Are People",
+  "shortDesc": "Old school D&D.",
+  "url": "https://vibrant-bohr-01f45e.netlify.com/",
+  "authorEmail": "valzibacktrack@gmail.com",
+  "authorHandle": "@valzi",
+  "authorName": "Michael R Bacon",
+  "enableThirdPartyComments": true,
   "paymentPointer": "$coil.xrptipbot.com/c1f8f05d-8d8c-4f37-b1ad-25677ae129da",
-  "faviconPath": "/images/favicon.png"
+  "faviconPath": "/images/favicon.png",
+  "maxPostsPerPage": 5
 }
