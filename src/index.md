@@ -5,4 +5,4 @@ postsHeading: Posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-Prerequisite: read the 3 Little Brown Books (Tom Moldvay's Basic Dungeons and Dragons edition will do.)
+Prerequisite: read the 3 Little Brown Books
