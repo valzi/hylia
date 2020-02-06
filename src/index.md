@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Kowloon Planet
-postsHeading: Blog posts
+title: Old school D&D musings
+postsHeading: Posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-Oldschool D&D
+Prerequisite: read the 3 Little Brown Books (Tom Moldvay's Basic Dungeons and Dragons edition will do.)
