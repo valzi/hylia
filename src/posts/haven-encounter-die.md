@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: '### Haven Encounter Die'
+title: Haven Encounter Die
 date: 2020-02-06T18:27:16.103Z
 tags:
   - downtime
