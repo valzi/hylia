@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: 'Caverns of Thracia session log: January 26, 2019'
+title: 'Caverns of Thracia session log: January 26, 2020'
 date: 2020-02-11T15:00:00.000Z
 tags:
   - session
