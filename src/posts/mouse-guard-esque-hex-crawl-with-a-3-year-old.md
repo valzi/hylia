@@ -5,11 +5,9 @@ date: 2020-01-24T13:44:09.603Z
 tags:
   - session
 ---
-This session report is using my in-progress coin-flip RPG for very young children. It's oldschool-compatible and slightly based on Into the Odd. The content is all from Mausritter. I played with my 3-year-old daughter, Aster.
-
-![character sheet](/images/hollysheet.jpg "character sheet")
-
 ![map](/images/hollymap.jpg "map")
+![character sheet](/images/hollysheet.jpg "character sheet")
+This session report is using my in-progress coin-flip RPG for very young children. It's oldschool-compatible and slightly based on Into the Odd. The content is all from Mausritter. I played with my 3-year-old daughter, Aster.
 
 - - -
 
