@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Mouse Guard-esque hex crawl with a 3 year old
+socialImage: /images/hollymap.jpg
 date: 2020-01-24T13:44:09.603Z
 tags:
   - session
