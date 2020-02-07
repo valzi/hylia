@@ -1,4 +1,6 @@
-/* DejaVuSans-ExtraLight */
+@import url(//https://indestructibletype.com/fonts/Jost.css);
+
+/* DejaVuSans-ExtraLight 
 @font-face {
   font-family: 'Dejavu Sans';
   font-style: normal;
@@ -6,7 +8,7 @@
   font-display: swap;
   src: local('DejaVuSans-Extralight'),
     url('/fonts/DejaVuSans-ExtraLight.ttf') format('ttf');
-}
+}*/
 
 body {
   // Strip the unit off the size ratio to generate a line height
