@@ -11,11 +11,11 @@ h2,
 h3 {
   @include apply-utility('font', 'serif');
   text-transform: uppercase;
+  color: #9e262b
 }
 
 h1 {
   font-size: get-size(700);
-  color: #9e262b;
 }
 
 h2 {
