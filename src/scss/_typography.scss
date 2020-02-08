@@ -34,7 +34,6 @@ h1.intro__heading {
 	@include apply-utility('font', 'serif');
 	font-size: get-size(max);
 	font-weight: 10;
-	text-align: justify;
 	overflow-wrap: break-word;
     word-wrap: break-word;
     -webkit-hyphens: auto;
