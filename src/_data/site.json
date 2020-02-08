@@ -1,7 +1,7 @@
 {
   "showThemeCredit": false,
-  "name": "Kowloon Planet",
-  "shortDesc": "Prerequisite: read the 3 Little Brown Books",
+  "name": "Deliberations & Determinations",
+  "shortDesc": "by Michael R. Bacon",
   "url": "https://kowloonplanet.netlify.com",
   "authorEmail": "valzibacktrack@gmail.com",
   "authorHandle": "@valzi",
@@ -9,5 +9,5 @@
   "enableThirdPartyComments": true,
   "paymentPointer": "$coil.xrptipbot.com/c1f8f05d-8d8c-4f37-b1ad-25677ae129da",
   "faviconPath": "/images/favicon.png",
-  "maxPostsPerPage": 5
+  "maxPostsPerPage": 2
 }
