@@ -1,12 +1,24 @@
-/* Quentin */
-
+/* lora-700 - latin */
 @font-face {
-  font-family: "Quentin";
+  font-family: 'Lora';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url("/fonts/quen.ttf") format("ttf");
-  src: url("https://kowloonplanet.netlify.com/fonts/quen.ttf") format("ttf");
+  src: local('Lora Bold'), local('Lora-Bold'),
+    url('/fonts/lora-v13-latin-700.woff2') format('woff2'),
+    url('/fonts/lora-v13-latin-700.woff') format('woff');
+}
+
+
+/* Quentin */
+
+@font-face {
+  font-family: 'Quentin';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/fonts/quen.ttf') format('ttf');
+  src: url('https://kowloonplanet.netlify.com/fonts/quen.ttf') format('ttf');
 }
 
 body {
@@ -25,10 +37,10 @@ h3 {
 
 h1 {
   font-size: get-size(700);
+  @include apply-utility('font', 'serif');
 }
 
 h1.intro__heading {
-	font-family: Quentin;
 	color: #9e262b;
 	@include apply-utility('font', 'serif');
 }
