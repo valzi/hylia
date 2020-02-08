@@ -32,16 +32,16 @@ h1 {
 h1.intro__heading {
 	color: #9e262b;
 	@include apply-utility('font', 'serif');
-	font-family: 'Quentin', serif;
+
 	font-size: get-size(max);
-	font-weight: 50;
-	hyphens: auto;
+	font-weight: 10;
 	word-wrap: break-word;
 	text-align: center;
 }
 
 .intro__summary {
 	color: #724e36;
+	text-align: center;
 }
 
 h2 {
