@@ -25,14 +25,13 @@ h3 {
 }
 
 h1 {
-  font-size: get-size(max);
-  @include apply-utility('font', 'serif');
+  font-size: get-size(700);
+  @include apply-utility('font', 'base');
 }
 
 h1.intro__heading {
 	color: #9e262b;
 	@include apply-utility('font', 'serif');
-
 	font-size: get-size(max);
 	font-weight: 10;
 	word-wrap: break-word;
