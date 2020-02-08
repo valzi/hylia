@@ -33,7 +33,7 @@ h1.intro__heading {
 	color: #9e262b;
 	@include apply-utility('font', 'serif');
 	font-family: 'Quentin', serif;
-	font-size: get-size(max);
+	font-size: get-size(700);
 	font-weight: 100;
 }
 
