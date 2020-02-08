@@ -1,10 +1,13 @@
 ---
 layout: layouts/post.njk
-title: Sci-Fantasy Extraterrestrial Race - Secret Santicorn for wr3cking8a11
+title: Sci-Fantasy Extraterrestrial Race
 date: 2018-12-25T03:24:00.000Z
 tags:
   - table
+  - Secret Santicorn
 ---
+(Written for Secret Santicorn.)
+
 The entire race was struck by poverty, once. For this reason, etiquette is often built around the idea of hiding whatever luxuries exist in one's life, even if most people share in those luxuries.
 
 # Race name
