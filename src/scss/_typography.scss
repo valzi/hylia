@@ -31,13 +31,13 @@ h1 {
 
 h2 {
   font-size: get-size(600);
-  color: #9e262b
+  color: #9e262b;
   @include apply-utility('font', 'serif');
 }
 
 h3 {
   font-size: get-size(500);
-  color: #9e262b
+  color: #9e262b;
   @include apply-utility('font', 'serif');
 }
 
