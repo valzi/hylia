@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: '### Sci-Fantasy Extraterrestrial Race - Secret Santicorn for wr3cking8a11'
+title: Sci-Fantasy Extraterrestrial Race - Secret Santicorn for wr3cking8a11
 date: 2018-12-25T03:24:00.000Z
 tags:
   - table
