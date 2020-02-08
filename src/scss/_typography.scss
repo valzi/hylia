@@ -19,9 +19,9 @@ body {
 h1,
 h2,
 h3 {
-  @include apply-utility('font', 'serif');
+
   text-transform: uppercase;
-  color: #9e262b
+
 }
 
 h1 {
@@ -31,10 +31,14 @@ h1 {
 
 h2 {
   font-size: get-size(600);
+  color: #9e262b
+  @include apply-utility('font', 'serif');
 }
 
 h3 {
   font-size: get-size(500);
+  color: #9e262b
+  @include apply-utility('font', 'serif');
 }
 
 @include media-query('md') {
