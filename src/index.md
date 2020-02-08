@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Dollops and Dandelions
+title: Deliberations & Determinations
 postsHeading: Posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-&D&D&D&D&D&D
+⌜ •   °    +   °   •   ⌝
