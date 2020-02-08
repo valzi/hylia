@@ -15,10 +15,16 @@
 @font-face {
   font-family: 'Quentin';
   font-style: normal;
-  font-weight: 700;
+  font-weight: normal;
   font-display: swap;
-  src: url('/fonts/quen.ttf') format('ttf');
-  src: url('https://kowloonplanet.netlify.com/fonts/quen.ttf') format('ttf');
+  src:	url('quen-webfont.woff2') format('woff2'),
+		url('quen-webfont.woff') format('woff'),
+		url('/fonts/quen.woff2') format('woff2'),
+		url('/fonts/quen.woff') format('woff'),
+		url('/fonts/quen.ttf') format('ttf'),
+		url('https://kowloonplanet.netlify.com/fonts/quen.woff2') format('woff2'),
+		url('https://kowloonplanet.netlify.com/fonts/quen.woff') format('woff'),
+		url('https://kowloonplanet.netlify.com/fonts/quen.ttf') format('ttf');
 }
 
 body {
