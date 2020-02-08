@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Old school D&D musings
+title: Deliberations & Determinations
 postsHeading: Posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-Prerequisite: read the 3 Little Brown Books
+⌜ •   °    +   °   •   ⌝
