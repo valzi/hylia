@@ -2,7 +2,7 @@
 layout: home
 title: Deliberations & Determinations
 postsHeading: Posts
-archiveButtonText: See all posts
+archiveButtonText: MORE
 socialImage: ''
 ---
 Blog for Fantastic Medieval Wargames Campaigns Playable with Paper and Pencil
