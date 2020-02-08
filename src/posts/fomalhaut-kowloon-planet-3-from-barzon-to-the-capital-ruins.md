@@ -5,7 +5,7 @@ date: 2019-01-16T02:44:00.000Z
 tags:
   - Session
 ---
-In Barzon, an island on the Kowloon Planet. (See[previous posts](https://buildingsarepeople.blogspot.com/search/label/Kowloon%20Planet).)
+In Barzon, an island on the Kowloon Planet. (See [previous posts](https://buildingsarepeople.blogspot.com/search/label/Kowloon%20Planet).)
 
 * Sent Denton to scout out dock - Svanth is checking out docks with Flying Gods (wasps under his control by way of a cube device) hovering overhead.
 * Discussed whether to take risks killing the hated Ullkmaran and decided to be practical instead. Party is disappointed.
