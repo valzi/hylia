@@ -40,6 +40,7 @@ h1.intro__heading {
 	@include apply-utility('font', 'serif');
 	font-family: 'Quentin', serif;
 	font-size: get-size(max);
+	font-weight: 100;
 }
 
 .intro__summary {
