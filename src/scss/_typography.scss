@@ -1,3 +1,13 @@
+/* Quentin */
+@font-face {
+  font-family: 'Quentin';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('QUEN'),
+    url('/fonts/QUEN.TTF') format('ttf');
+}
+
 body {
   // Strip the unit off the size ratio to generate a line height
   $line-height: get-size(600);
