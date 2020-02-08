@@ -5,4 +5,4 @@ postsHeading: Posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-Blog for Fantastic Medieval Wargames
+Blog for Fantastic Medieval Wargames Campaigns Playable with Paper and Pencil
