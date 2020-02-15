@@ -6,6 +6,7 @@ tags:
   - session
   - kowloon planet
   - fomalhaut
+  - barzon
 ---
 ![](/images/02EmeraldIdols.jpg)
 
