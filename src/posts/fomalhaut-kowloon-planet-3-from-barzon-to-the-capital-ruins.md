@@ -6,6 +6,7 @@ tags:
   - session
   - kowloon planet
   - fomalhaut
+  - barzon
 ---
 In Barzon, an island on the Kowloon Planet. (See [previous posts](https://buildingsarepeople.blogspot.com/search/label/Kowloon%20Planet).)
 
