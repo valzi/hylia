@@ -30,4 +30,4 @@ And of course I'll be reading your comments here.
 \
 Bold text is immediately observed. Normal text is easily observed. Italicized text requires examination/experimentation/etc.
 
-![some formatted text](/images/key sample (1).png "Thracia key")
+![some formatted text](/images/keysample.png "Thracia key")
