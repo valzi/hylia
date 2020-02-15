@@ -4,6 +4,7 @@ title: Caverns of Thracia mini review after a few sessions of play
 date: 2019-01-12T13:38:24.400Z
 tags:
   - review
+  - thracia
 ---
 I've been running The Caverns of Thracia for a while in a duet game with my wife.
 
