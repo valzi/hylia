@@ -4,6 +4,7 @@ title: Updated and Automated Faction Generator
 date: 2019-01-22T02:56:00.000Z
 tags:
   - table
+  - kowloon
 ---
 It has types, traits, connections to other factions, and conflict.
 
