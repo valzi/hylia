@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: 'Fomalhaut/Kowloon Planet Session Report 3: from Barzon to the Capital Ruins. '
+socialImage: /images/02EmeraldIdols.jpg
 date: 2019-01-16T02:44:00.000Z
 tags:
   - session
@@ -8,6 +9,8 @@ tags:
   - fomalhaut
   - barzon
 ---
+![](/images/02EmeraldIdols.jpg)
+
 In Barzon, an island on the Kowloon Planet. (See [previous posts](https://buildingsarepeople.blogspot.com/search/label/Kowloon%20Planet).)
 
 * Sent Denton to scout out dock - Svanth is checking out docks with Flying Gods (wasps under his control by way of a cube device) hovering overhead.
