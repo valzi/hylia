@@ -5,6 +5,8 @@ date: 2020-02-15T20:21:16.936Z
 tags:
   - session
 ---
+![](/images/02EmeraldIdols.jpg)
+
 September 16, 2018. Session 1 of a new campaign on the planet Fomalhaut-1, on Barzon, an island of the Emerald Sea (a module by Gabor Lux aka Melan.
 
 
