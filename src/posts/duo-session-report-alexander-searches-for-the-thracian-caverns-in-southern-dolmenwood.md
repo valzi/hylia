@@ -6,6 +6,8 @@ title: >-
 date: 2018-07-17T20:06:00.000Z
 tags:
   - session
+  - dolmenwood
+  - thracia
 ---
 ![](/images/thracia.jpg)
 
