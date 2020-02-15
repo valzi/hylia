@@ -4,6 +4,7 @@ title: 'Caverns of Thracia session log: February 2, 2020'
 date: 2020-02-07T15:04:25.846Z
 tags:
   - session
+  - thracia
 ---
 System: [B/BX](https://buildingsarepeople.blogspot.com/2020/01/bbx.html).
 
