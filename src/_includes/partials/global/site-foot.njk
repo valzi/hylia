@@ -7,7 +7,6 @@
             <h2 class="font-base text-600">{{ site.name }}</h2>
             {{ site.shortDesc | markdownFilter | safe }}
 			<a href="https://github.com/valzi/hylia/blob/master/{{ page.inputPath }}">Edit this page on GitHub</a>
-			 {% include "partials/components/tags-list.njk" %}
           </article>
         </div>
       {% endif %}
