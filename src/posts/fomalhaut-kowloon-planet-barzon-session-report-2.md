@@ -4,7 +4,8 @@ title: Fomalhaut/Kowloon Planet - Barzon Session Report 2
 date: 2018-09-27T19:27:00.000Z
 tags:
   - session
-  - Kowloon
+  - kowloon planet
+  - fomalhaut
 ---
 ![](/images/02EmeraldIdols.jpg)
 
