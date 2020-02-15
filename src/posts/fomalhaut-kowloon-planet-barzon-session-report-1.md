@@ -12,8 +12,6 @@ tags:
 
 September 16, 2018. Session 1 of a new campaign on the planet Fomalhaut-1, on Barzon, an island of the Emerald Sea (a module by Gabor Lux aka Melan.
 
-
-
 Pangea and Zena are foreign heretics who arrived in the palace's court by an ancient, long unused portal from Hot Springs Island. They can escape punishment by secretly helping Svanth. The flying gods (giant wasps) will rend the Empire's soldiers on the day of Ascendance (three days from now.) Some of the Empire's soldiers are loyal to Svanth, who is the Trademaster and a local ruler. He needs their commander dead, he needs his untrusted merchant ally Ullkmaran kept indoors and away from the events of that day, and he needs the empire's soldiers dead. It's absolutely necessary that no one learns that anyone local is involved. The flying gods will be the only recorded cause of the coup.
 
 > This seems like I'm railroading the party a bit. That's slightly true, but my players know they can do whatever they can get away with, even when pinned down. Read on to see.
