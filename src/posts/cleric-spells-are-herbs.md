@@ -6,13 +6,7 @@ tags:
   - rules
   - content
 ---
-<!--StartFragment-->
-
-## 26 July 2018
-
-[](<>)
-
-[![](https://2.bp.blogspot.com/-TA49v4oB3uM/W1n7cVwts5I/AAAAAAAA42A/x9IRbphFfL4TG79_pNoKIJ8-UWWtC3uuQCLcBGAs/s400/Horehound_%2528PSF%2529.png)](https://2.bp.blogspot.com/-TA49v4oB3uM/W1n7cVwts5I/AAAAAAAA42A/x9IRbphFfL4TG79_pNoKIJ8-UWWtC3uuQCLcBGAs/s1600/Horehound_%2528PSF%2529.png)
+![](/images/Herb.png)
 
 ## Mechanics
 
@@ -22,8 +16,6 @@ Roll a d12 on the *Replaced Spells* list when foraging for herbs to gain the ass
 
 ## Cost
 
-
-
 | Herb Level | Baseline Cost |
 | ---------- | ------------- |
 | 0          | 100 GP        |
@@ -31,8 +23,6 @@ Roll a d12 on the *Replaced Spells* list when foraging for herbs to gain the ass
 | 2          | 600 GP        |
 | 3          | 800 GP        |
 | 4          | 1000 GP       |
-
-
 
 ## Replaced Spells
 
