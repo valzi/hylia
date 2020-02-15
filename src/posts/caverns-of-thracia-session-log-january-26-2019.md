@@ -4,6 +4,7 @@ title: 'Caverns of Thracia session log: January 26, 2020'
 date: 2020-02-11T15:00:00.000Z
 tags:
   - session
+  - thracia
 ---
 System: [B/BX](https://buildingsarepeople.blogspot.com/2020/01/bbx.html).
 
@@ -11,7 +12,7 @@ Players: Niku and Loretta (Les and Myrtle) who had only played 5e and Emily (Bag
 
 **If you're playing in my game, please do not read the following. You may request spoiler-free notes from me if you like.**
 
-- - -
+---
 
 * Entered main entrance without incident at about 7:50 am.
 * Saw guano, heard bats. (1)
