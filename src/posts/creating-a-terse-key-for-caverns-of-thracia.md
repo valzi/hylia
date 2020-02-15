@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Creating a Terse Key for Caverns of Thracia
-date: 2020-02-15T19:41:56.957Z
+date: 2018-11-29T19:41:00.000Z
 tags:
   - content
 ---
@@ -19,9 +19,9 @@ We've already contacted Jennell Jacquays who suggested contacting Judge's Guild.
 6. See the document for more information.
 
 \
-We're working on it in a[Google Doc](https://docs.google.com/document/d/1D_IlhVeDuXyLn5sLxYCZTEskxDWLRFY5iolZnNjr4Z8/edit?usp=sharing). Please leave a comment there requesting permission if you'd like to edit. You can leave comments in the doc, even without permission.\
+We're working on it in a [Google Doc](https://docs.google.com/document/d/1D_IlhVeDuXyLn5sLxYCZTEskxDWLRFY5iolZnNjr4Z8/edit?usp=sharing). Please leave a comment there requesting permission if you'd like to edit. You can leave comments in the doc, even without permission.\
 \
-You can chat with us about it in the[OSR Discord](https://discord.gg/6vqF25E).\
+You can chat with us about it in the [OSR Discord](https://discord.gg/6vqF25E).\
 \
 And of course I'll be reading your comments here.
 
