@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: 'Fomalhaut/Kowloon Planet Session Report 1: Barzon '
+socialImage: /images/02EmeraldIdols.jpg
 date: 2018-09-17T19:21:00.000Z
 tags:
   - session
