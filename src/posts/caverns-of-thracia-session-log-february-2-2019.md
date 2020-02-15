@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: 'Caverns of Thracia session log: February 2, 2020'
-date: 2020-02-07T15:04:25.846Z
+date: 2020-02-12T15:04:00.000Z
 tags:
   - session
   - thracia
