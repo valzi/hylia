@@ -4,6 +4,7 @@ title: Factions on Kowloon Planet
 date: 2019-01-04T03:18:00.000Z
 tags:
   - table
+  - kowloon planet
 ---
 I made a [faction generator](https://docs.google.com/document/d/12msnB7Jky8AKm_qQEP6f64XHtKMYlZBKC3w_pvhp4uA/edit?usp=sharing) for my sci-fantasy setting. I'm proud of it. It's neat.\
 \
