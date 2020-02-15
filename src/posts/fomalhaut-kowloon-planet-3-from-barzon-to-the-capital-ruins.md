@@ -1,9 +1,11 @@
 ---
 layout: layouts/post.njk
-title: Fomalhaut/Kowloon Planet 3 - from Barzon to the Capital Ruins
+title: 'Fomalhaut/Kowloon Planet Session Report 3: from Barzon to the Capital Ruins. '
 date: 2019-01-16T02:44:00.000Z
 tags:
-  - Session
+  - session
+  - kowloon planet
+  - fomalhaut
 ---
 In Barzon, an island on the Kowloon Planet. (See [previous posts](https://buildingsarepeople.blogspot.com/search/label/Kowloon%20Planet).)
 
