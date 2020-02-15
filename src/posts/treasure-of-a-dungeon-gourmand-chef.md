@@ -5,8 +5,6 @@ date: 2018-08-07T19:50:00.000Z
 tags:
   - content
 ---
-## Treasure of a Dungeon Gourmand-Chef
-
 Roll once per column. Describe valuable items properly. A 5 gp pot is inlaid with gold. A 50 gp pot is nearly indestructible and/or inlaid with gems and gold. A 100gp item also has a magical effect.
 
 | D6  | Item                                                                               | Value | Adjective   |
