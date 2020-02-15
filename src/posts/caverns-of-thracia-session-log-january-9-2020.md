@@ -4,13 +4,14 @@ title: 'Caverns of Thracia session log: January 9, 2020'
 date: 2020-02-06T14:53:06.771Z
 tags:
   - session
+  - thracia
 ---
 System: [B/BX](https://buildingsarepeople.blogspot.com/2020/01/bbx.html).\
 Players: Emily, John, Erin.\
 We played as if Sasha's character simply wasn't there.\
 **If you're playing in my game, please do not read the following. You may request spoiler-free notes from me if you like.**
 
-**\---**
+---
 
 * The party pulled back the curtains covering the wall in the chapel and discovered a section of the wall covered in plaster. They chipped away at the plaster until they discovered a secret door behind it. A key taken from the wight opened it.
 * They proceeded through another narrow hall to (11) to find a disoriented-looking man surrounded by skeletons. A magic-user quickly cast Charm Person on him.
