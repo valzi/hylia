@@ -4,6 +4,7 @@ title: Creating a Terse Key for Caverns of Thracia
 date: 2018-11-29T19:41:00.000Z
 tags:
   - content
+  - thracia
 ---
 We started a group project with the intent of looking back at the classic Judge's Guild module Caverns of Thracia and rewriting it with terse evocative language and formatting to make it more practical for the table.\
 \
