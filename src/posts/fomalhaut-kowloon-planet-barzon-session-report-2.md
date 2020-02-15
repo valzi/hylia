@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Fomalhaut/Kowloon Planet - Barzon Session Report 2
-date: 2020-02-15T20:27:42.478Z
+date: 2018-09-27T19:27:00.000Z
 tags:
   - session
   - Kowloon
