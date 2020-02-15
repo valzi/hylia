@@ -5,7 +5,6 @@ date: 2020-02-04T14:55:27.030Z
 tags:
   - session
   - thracia
-  - ''
 ---
 If you're playing in my game, please do not read the following. You may request spoiler-free notes from me if you like.
 
