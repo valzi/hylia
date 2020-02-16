@@ -3,4 +3,17 @@ layout: layouts/page.njk
 title: Tags
 ---
 
-foobar
+<ul>
+  {%- for tag in collections.tagList %}
+  <li>
+    <a href="/tags/{{ tag | slug }}">{{ tag }}</a>
+    ({{ collections[tag].length }})
+  </li>
+  {%- endfor %}
+</ul>
+
+{%- for tag in collections.tagList %}
+<h2>Blog posts tagged “{{ tag }}”</h2>
+{% set posts = collections[tag] | reverse %}
+{% include "post.njk" %}
+{%- endfor %}

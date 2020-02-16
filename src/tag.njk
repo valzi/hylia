@@ -9,4 +9,5 @@ pagination:
 permalink: /tags/{{ tag | slug }}/
 ---
 
-foobar
+{% set posts = collections[tag] | reverse %}
+{% include "post.njk" %}
