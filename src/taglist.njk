@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 title: Tags
 ---
 
@@ -15,5 +15,5 @@ title: Tags
 {%- for tag in collections.tagList %}
 <h2>Blog posts tagged “{{ tag }}”</h2>
 {% set posts = collections[tag] | reverse %}
-{% include "posts.njk" %}
+{% include "post.njk" %}
 {%- endfor %}
