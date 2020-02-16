@@ -10,3 +10,5 @@ layout: layouts/home.njk
 {% endfor %}
 
 {%- for tag in collections.tagList %} tag {{tag}} {% endfor %}
+
+{%- for tag in collections.tagList %} <span>tag {{tag}}</span> {% endfor %}
