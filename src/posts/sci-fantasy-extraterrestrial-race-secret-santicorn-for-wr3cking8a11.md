@@ -4,8 +4,8 @@ title: Sci-Fantasy Extraterrestrial Race
 date: 2018-12-25T03:24:00.000Z
 tags:
   - table
-  - Secret Santicorn
-  - kowloon
+  - secret santicorn
+  - kowloon planet
 ---
 (Written for Secret Santicorn.)
 
