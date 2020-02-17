@@ -15,10 +15,6 @@
 <body>
   {% include "partials/global/site-head.njk" %}
   {% block content %}
-	Tags: {% for tag in collections.tagList %}
-		{% set tagUrl %}/tags/{{ tag }}/{% endset %}
-		<a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
-		{% endfor %}
   {% endblock content %}
   {% include "partials/global/site-foot.njk" %}
   {% block foot %}
