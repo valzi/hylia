@@ -55,7 +55,7 @@
           </div>
         </footer>
         <footer class="[ post__footer ] [ pad-top-0 pad-bottom-500 ]">
-            <div class="[ nav ] [ box-flex align-center ]" style="margin-left: auto; margin-right: auto; padding-left: get-size(500); padding-right: get-size(500);">
+            <div class="[ nav ] [ box-flex align-center ]" style="margin-left: auto; margin-right: auto; padding-left: get-size(500); padding-right: get-size(500); max-width: map-get($metrics, 'wrap-inner-max-width');">
 				<h2 class="font-base text-600 weight-mid">All tags:</h2> 
 				<ul class="[ nav__list ] [ box-flex align-center pad-left-400 ] [ p-category ]">
 				{% for tag in collections.tagList %}
