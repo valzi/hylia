@@ -7,7 +7,7 @@
             {{ site.shortDesc | markdownFilter | safe }} Tags: {% for tag in collections.tagList %}
   {% set tagUrl %}/tags/{{ tag }}/{% endset %}
   <a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
-{% endfor %}<p>.</p>
+{% endfor %}
 
 			<p><a href="https://github.com/valzi/hylia/blob/master/{{ page.inputPath }}">Edit this page on GitHub</a></p>
           </article>
