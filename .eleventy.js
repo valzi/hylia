@@ -34,7 +34,7 @@ module.exports = function(config) {
   config.addPassthroughCopy('src/admin/config.yml');
   config.addPassthroughCopy('src/admin/previews.js');
   config.addPassthroughCopy('node_modules/nunjucks/browser/nunjucks-slim.js');
-  config.addCollection("tagList", require("./_11ty/getTagList"));
+  config.addCollection("tagList", require("src/_11ty/getTagList"));
 
   const now = new Date();
 
