@@ -3,12 +3,13 @@ layout: layouts/post.njk
 title: LUCK ROLL
 date: 2020-02-20T19:59:39.757Z
 tags:
-  - Rules
+  - rules
 ---
 Roll 2d6 when you are not certain how favorable or unfavorable a situation will be toward the players. The higher the resulting number is, the better things are for the character or party. A result of 6-8 is neutral /natural/unchanged (apply whichever word is the most appropriate.)
 
 ## Sample Luck Rolls
-
+
+
 <table>
   <tr>
    <td><strong>Luck Roll</strong>
