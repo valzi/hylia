@@ -5,10 +5,6 @@
         <div>
           <article class="[ site-foot__details ] [ sf-flow measure-compact ]">
             {{ site.shortDesc | markdownFilter | safe }} 
-			Topics: {% for tag in collections.tagList %}
-				{% set tagUrl %}/tags/{{ tag }}/{% endset %}
-				<a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
-				{% endfor %}
 			<p><a href="https://github.com/valzi/hylia/blob/master/{{ page.inputPath }}">Edit this page on GitHub</a></p>
           </article>
         </div>
