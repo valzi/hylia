@@ -8,7 +8,3 @@ layout: layouts/home.njk
   {% set tagUrl %}/tags/{{ tag }}/{% endset %}
   <a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
 {% endfor %}
-
-{%- for tag in collections.tagList %} tag {{tag}} {% endfor %}
-
-{%- for tag in collections.tagList %} <span>tag {{tag}}</span> {% endfor %}
