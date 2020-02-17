@@ -8,6 +8,10 @@
         <span class="[ site-head__site-name ] [ text-600 ]" aria-hidden="true">{{ site.name }}</span>
       </a>
       {% include "partials/components/nav.njk" %}
+	  	<p> Tags: {% for tag in collections.tagList %}
+		{% set tagUrl %}/tags/{{ tag }}/{% endset %}
+		<a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
+		{% endfor %}</p>
     </div>
   </div>
   <link rel="stylesheet" href="https://indestructibletype.com/fonts/Jost.css" type="text/css" charset="utf-8" />
