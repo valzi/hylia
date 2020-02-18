@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "text": "Tags",
-      "url": "https://deliberationsndeterminations.netlify.com/tags/",
-      "external": false
-    },
-	    {
       "text": "Twitter",
       "url": "https://twitter.com/valzi",
       "external": true
