@@ -50,10 +50,9 @@
     }
 
     blockquote {
-      border-left: 0.4rem solid var(--color-theme-primary-glare);
+      border-left: 0.4rem solid black;
       margin-left: 0;
       padding-left: get-size(500);
-      font-style: italic;
       font-size: get-size(400);
 	  background-color: var(--color-primary-glare);
 	  color: var(--color-slate);
