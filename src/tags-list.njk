@@ -4,13 +4,13 @@ layout: layouts/page.njk
 title: Tags
 ---
 
-        <div class="[ post__footer ] [ pad-top-500 pad-bottom-500 background-color-white ]">
-		  <div class="inner-wrapper">
+        <div class="[ post__footer ] [ pad-top-500 pad-bottom-500 ]">
+
 				<ul>
 				{% for tag in collections.tagList %}
 				{% set tagUrl %}/tags/{{ tag }}/{% endset %}
 				<a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
                 {% endfor %}
 				</ul>
-            </div>
+
         </div>
