@@ -1,7 +1,7 @@
 .post-list {
   &__item {
     --flow-space: #{get-size(200)};
-	font-size: get-size(400);
+	font-size: 1.0rem;
   }
 
   &__link {
