@@ -4,7 +4,7 @@ layout: layouts/page.njk
 title: Tags
 ---
 
-{% for tag in collections.tagList | sort %}
+{% for tag in collections.tagList | sort (case_sensitive=False) %}
   {% set tagUrl %}/tags/{{ tag }}/{% endset %}
   <a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
 {% endfor %}
