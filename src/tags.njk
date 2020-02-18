@@ -19,12 +19,10 @@ permalink: /tags/{{ tag }}/
 {% set pageType = 'Tag Archive' %}
 
 {# Intro content #}
-{% set introHeading %}Posts filed under “{{ tag }}”{% endset %}
+{% set introHeading %}Posts tagged “{{ tag }}”{% endset %}
 {% set introHeadingLevel = '2' %}
 
 {# Post list content #}
-{% set postListHeadingLevel = '2' %}
-{% set postListHeading = 'Posts' %}
 {% set postListItems = collections[tag] %}
 
 {% block content %}
