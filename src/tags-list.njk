@@ -4,14 +4,8 @@ layout: layouts/page.njk
 title: Tags
 ---
 
-{% for tag in collections.tagList | sort (case_sensitive=False) %}
-  {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-  <a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
-{% endfor %}
 
-        <footer class="[ post__footer ] [ pad-top-0 pad-bottom-500 ]">
 		  <div class="inner-wrapper">
-				<h2 class="font-base text-600 weight-mid">All tags:</h2> 
 				<ul>
 				{% for tag in collections.tagList %}
 				{% set tagUrl %}/tags/{{ tag }}/{% endset %}
@@ -19,4 +13,3 @@ title: Tags
                 {% endfor %}
 				</ul>
             </div>
-        </footer>
