@@ -61,8 +61,11 @@
       p {
         opacity: 0.85;
         padding: get-size(500) 0;
-      }
+      } 
     }
+	blockquote a {
+		[background-color: var(--color-primary-glare);
+	}
 
     ol:not([class]),
     ul:not([class]) {
