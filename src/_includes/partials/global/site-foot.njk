@@ -1,3 +1,16 @@
+	{% if tags %}
+        <footer class="[ post__footer ] [ pad-top-0 pad-bottom-500 ]">
+		  <div class="inner-wrapper">
+				<h2 class="font-base text-600 weight-mid">All tags:</h2> 
+				<ul>
+				{% for tag in collections.tagList %}
+				{% set tagUrl %}/tags/{{ tag }}/{% endset %}
+				<a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
+                {% endfor %}
+				</ul>
+            </div>
+        </footer>
+    {% endif %}
 <footer role="contentinfo" class="[ site-foot ] [ pad-top-700 pad-bottom-900 ]">
   <div class="wrapper">
     <div class="[ site-foot__inner ] [ md:box-flex space-between align-start ]">
