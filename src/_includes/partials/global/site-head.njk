@@ -6,6 +6,7 @@
       <a href="/" class="[ site-head__site-name ] [ leading-tight ]"{{ 'aria-current=page' if page.url == '/' | safe }}>
         <span class="visually-hidden">{{ 'Back to homepage' if page.url != '/' else 'Homepage' }}</span>
         <span class="[ site-head__site-name ] [ text-600 ]" aria-hidden="true">{{ site.name }}</span>
+		<img src="/images/header.jpg"><img>
       </a>
       {% include "partials/components/nav.njk" %}
     </div>
