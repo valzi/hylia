@@ -1,6 +1,7 @@
 .post-list {
   &__item {
-    --flow-space: #{get-size(500)};
+    --flow-space: #{get-size(700)};
+	font-size: get-size(400);
   }
 
   &__link {
@@ -8,6 +9,7 @@
     &:visited {
       color: var(--color-theme-primary);
       text-decoration: none;
+
     }
 
     &:hover {
