@@ -80,6 +80,11 @@ table, th, td {
   border-collapse: collapse;
 }
 
+th, td {
+  padding: 5px;
+  text-align: left;
+}
+
 tr:nth-child(even) {background: #d8b78e}
 tr:nth-child(odd) {background: #FFF}
 
