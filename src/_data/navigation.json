@@ -1,19 +1,14 @@
 {
   "items": [
     {
-      "text": "GitHub",
-      "url": "https://github.com/valzi/hylia",
-      "external": true
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/valzi",
-      "external": true
-    },
-    {
       "text": "Tags",
       "url": "https://deliberationsndeterminations.netlify.com/tags/",
       "external": false
+    },
+	    {
+      "text": "Twitter",
+      "url": "https://twitter.com/valzi",
+      "external": true
     }
   ]
 }
