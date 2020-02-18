@@ -84,6 +84,13 @@ table, th, td {
   padding-bottom: 0px;
 }
 
+table {
+	overflow-x: auto;
+}
+.post__body table{
+	overflow-x: auto;
+}
+
 tr:nth-child(even) {background: #d8b78e}
 tr:nth-child(odd) {background: #FFF}
 

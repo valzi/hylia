@@ -7,7 +7,7 @@ title: Tags
         <div class="[ post__footer ] [ pad-top-500 pad-bottom-500 ]">
 
 				<ul>
-				{% for tag in collections.tagList %}
+				{% for tag in collections.tagList | sort %}
 				{% set tagUrl %}/tags/{{ tag }}/{% endset %}
 				<a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
                 {% endfor %}
