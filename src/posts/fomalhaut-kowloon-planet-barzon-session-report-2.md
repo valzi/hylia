@@ -5,6 +5,8 @@ date: 2018-09-27T19:27:00.000Z
 tags:
   - session
   - kowloon planet
+  - fomalhaut
+  - barzon
 ---
 ![](/images/02EmeraldIdols.jpg)
 
