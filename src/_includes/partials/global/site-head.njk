@@ -1,15 +1,15 @@
 <a class="skip-link" href="#main-content">Skip to content</a>
 <header role="banner" class="[ site-head ] [ pad-top-700 pad-bottom-700 ">
-  <div class="wrapper">
+  <div class="wrapper" style="text-align: center;">
     <span class="visually-hidden">{{ site.name }}: {{ pageType }}</span>
-    <div class="[ site-head__inner ] [ md:box-flex space-between align-center ]">
+    <div class="[ site-head__inner ] [ md:box-flex space-between align-center ]" style="text-align: center;">
       <a href="/" class="[ site-head__site-name ] [ leading-tight ]"{{ 'aria-current=page' if page.url == '/' | safe }}>
         <span class="visually-hidden">{{ 'Back to homepage' if page.url != '/' else 'Homepage' }}</span>
         <span class="[ site-head__site-name ] [ text-600 ]" aria-hidden="true"><h1 style="font-size:3vw;">{{ site.name }}</h1> </span>
 	  </a>
 
     </div>
-			<img src="/images/header.jpg" class="pad-top-300"><img>
+			<img src="/images/header.jpg" class="pad-top-300" style="display:block; margin-left:auto; margin-right:auto; width:100%;"><img>
 			<p></p>Blog for Fantastic Medieval Wargames Campaigns Playable with Paper and Pencil
 			{% include "partials/components/nav.njk" %}
   </div>
