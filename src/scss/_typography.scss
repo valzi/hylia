@@ -25,8 +25,16 @@ h3 {
 }
 
 h1 {
-  font-size: get-size(700);
-  @include apply-utility('font', 'base');
+	color: #9e262b;
+	@include apply-utility('font', 'serif');
+	font-size: get-size(max);
+	font-weight: 10;
+	overflow-wrap: break-word;
+    word-wrap: break-word;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
 }
 
 h1.intro__heading {
@@ -60,7 +68,7 @@ h3 {
 
 @include media-query('md') {
   h1 {
-    font-size: get-size(900);
+    font-size: get-size(800);
   }
 
   h2 {
