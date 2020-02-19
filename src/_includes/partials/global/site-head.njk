@@ -7,10 +7,12 @@
         <span class="visually-hidden">{{ 'Back to homepage' if page.url != '/' else 'Homepage' }}</span>
         <span class="[ site-head__site-name ] [ text-600 ]" aria-hidden="true"><h1>{{ site.name }}</h1> </span>
 	  </a>
-		{% include "partials/components/nav.njk" %}
+
     </div>
 			<img src="/images/header.jpg" class="pad-top-300"><img>
-			<p>Blog for Fantastic Medieval Wargames Campaigns Playable with Paper and Pencil</p>
+			<p></p>Blog for Fantastic Medieval Wargames Campaigns Playable with Paper and Pencil
+			{% include "partials/components/nav.njk" %}
   </div>
+
   <link rel="stylesheet" href="https://indestructibletype.com/fonts/Jost.css" type="text/css" charset="utf-8" />
 </header>
