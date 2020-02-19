@@ -5,3 +5,11 @@
     color: var(--color-text);
   }
 }
+.banner
+{
+	background: var(--color-theme-highlight-block);
+  }
+  
+  *[role="banner"] {
+	background: var(--color-theme-highlight-block);
+  }
