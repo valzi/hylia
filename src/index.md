@@ -5,4 +5,4 @@ postsHeading: Posts
 archiveButtonText: MORE
 socialImage: ''
 ---
-.
+
