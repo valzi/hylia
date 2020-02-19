@@ -1,6 +1,6 @@
 - add comments and/or webmentions
 - ~~the word "twitter" hovering to the right of the banner image~~
-- Center the logo maybe?
+- ~~Center the logo maybe?~~
 - "~~Blog for Fantastic Medieval Wargames Campaigns Playable with Paper and Pencil" seems to belong below the blog title or banner image rather than in the header that says "POSTS"~~
 - ~~I'd give a bit of vertical margin between "Deliberations & Determinations" and the banner image (try 1em maybe?)~~
 - ~~I'd see if one could reasonably trim the brown margin space around POSTS vertically~~
