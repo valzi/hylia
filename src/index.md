@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Deliberations & Determinations
+title: Home
 postsHeading: Posts
 archiveButtonText: MORE
 socialImage: ''
