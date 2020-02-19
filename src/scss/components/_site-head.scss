@@ -13,19 +13,3 @@
   *[role="banner"] {
 	background: var(--color-theme-highlight-block);
   }
-  
-  
-  
-  
-  @media screen and (min-width: 601px) {
-  .site-head__site-name {
-    font-size: 80px;
-  }
-}
-  
-  
-  @media screen and (max-width: 600px) {
-  .site-head__site-name {
-    font-size: 30px;
-  }
-}
