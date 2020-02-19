@@ -4,6 +4,10 @@
       "text": "Twitter",
       "url": "https://twitter.com/valzi",
       "external": true
+    },
+    {
+      "text": "RSS feed",
+      "url": "https://deliberationsndeterminations.netlify.com/feed.xml"
     }
   ]
 }
