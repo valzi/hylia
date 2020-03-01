@@ -7,13 +7,13 @@
 {% block content %}
   <main id="main-content" tabindex="-1">
   <aside>
-  {{ content | toc | safe }}
+  {{ content }}
 </aside>
     <article class="[ post ] [ h-entry ]">
       {% include "partials/components/intro.njk" %}
-	    {{ content | toc | safe }}
+	     {{ content | toc | safe }}
       <div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 pad-bottom-900 text-500 ] [ sf-flow ] [ e-content ]">
-        {{ content | safe }}
+        { {{ content | toc | safe }}
       </div>
     </article>
   </main>
