@@ -17,7 +17,7 @@ Ambush and loot other explorers, killing them if afraid to let them live or if t
 11. Children of the Capital
     Thin, gangly people who always look about 20-40 years older than they are. Surgically granted specialized knowledge about one kind of tech, as an adolescent rite of passage. The knowledge is subconscious, but most will, eventually, at least once in their lifetime, be taken by a fit of isolationism and craft a marvelous artifact. No one knows the artifact is dependent on the rite, which is only a superstitious tradition.
 
-12. Traders consist of 3-18 level 1 fighters, with 1-4 mules, engaged primarily in excavation and recovery of artifacts - they'll be armed, and will also have shovels, picks, and digging equipment.  Like everyone else, they've arrived in Trade Town via longship and will be dressed appropriately.
+12. Traders consist of 3-18 level 1 fighters, with 1-4 mules, engaged primarily in excavation and recovery of artifacts - they'll be armed, and will also have shovels, picks, and digging equipment. 
 
 13. Veterans
     A group of veterans is a mix of 2-12 fighters of levels 1-3, per the BX rules.  Unlike traders, these Vikings explore the ruins seeking monster lairs and creatures to fight and loot.

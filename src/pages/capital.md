@@ -218,6 +218,6 @@ Every item has a 1 in 20 chance of being cursed. Cursed items :
 
 ## Inspiration
 
-System Shock 1.
+[System Shock 1](https://www.gog.com/game/system_shock_enhanced_edition).
 
 [Black City](http://3.bp.blogspot.com/_cZ56RNjccUE/TSD7vQrpycI/AAAAAAAAACo/S9nJ80D2rH4/s1600/BlackCityCrossSection.jpg)
