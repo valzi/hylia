@@ -132,7 +132,7 @@ AC [12]. Weapons (often poisoned): bow, blowgun, dagger. Surprise on a 4-6. Near
 
 - Navigating occasionally requires parkour, bridge-building, climbing, or the use of a zip line.
 
-- It's not a city anymore. It's a claustrophobic, half-vertical wilderness with occasional settled spaces. `(It's a point-crawl dungeon.)`
+- It's not a city anymore. It's a claustrophobic, half-vertical wilderness with occasional settled spaces.
 
 - Many locations, even in A, are completely blocked (often by dangerous defenses) and require a key to access.
 
