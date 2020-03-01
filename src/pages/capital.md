@@ -35,6 +35,8 @@ Key:  `Text like this needs editing or additional detail.`
 * Local faction provides access to dungeon entrance and passage back out as a paid service.
 * A giant burning tire heap. the city threatens to remove the tire heap as it's a blight on the city but armed residents fight back as they use the tires for fuel during the winter.
 
+![Access](/images/access.png)
+
 ### Government
 
 Called upon only for mediation of disagreements.
@@ -95,9 +97,9 @@ HD 5+1; AC \[14]; Atk 2 claws (1d6), 1 bite (2d6); Special: hug for additional 2
 
 #### 8. cyborgs
 
-1, 1d6 Cyborgs. Connect the AI to everything. Corpses with cybernetics keeping them alive. "Killed" ones are collected and transported to nearest surgical cube (in a tower) for repair. 
+1, 1d6 Cyborgs. Connect the AI to everything. Corpses with cybernetics keeping them alive. "Killed" ones are collected and transported to nearest surgical cube (in a tower) for repair.
 
-Lights glowing underneath their skin, like strips of LEDs. Power source powers ancient weapons (laser guns and the like) without need of battery cartridges. 
+Lights glowing underneath their skin, like strips of LEDs. Power source powers ancient weapons (laser guns and the like) without need of battery cartridges.
 
 HD 3; AC \[14]; Atk 1 syringe attachment (1hp + level drain); hit only by magic or silver weapons. Special: Those with max Grit carry a powerful artifact.
 
@@ -107,7 +109,7 @@ HD 3; AC \[14]; Atk 1 syringe attachment (1hp + level drain); hit only by magic 
 
 #### 10. lurkers
 
-1, Lurkers  Attempt to kill from a distance without engaging in combat. - Magical artifacts are objects of terror in their hands. - They set deadly traps and keep snipers near their territory. - Stealthy (often wear black at night and camouflage in the day) 
+1, Lurkers  Attempt to kill from a distance without engaging in combat. - Magical artifacts are objects of terror in their hands. - They set deadly traps and keep snipers near their territory. - Stealthy (often wear black at night and camouflage in the day)
 
 * Keep their lair secret. - Collect corpses for the machine. - Collect corpses for the god. - Steal books and artifacts from corpses.
 
@@ -131,7 +133,7 @@ AC \[12]. Weapons (often poisoned): bow, blowgun, dagger. Surprise on a 4-6. Nea
 * Navigating occasionally requires parkour, bridge-building, climbing, or the use of a zip line.
 * It's not a city anymore. It's a claustrophobic, half-vertical wilderness with occasional settled spaces.
 * Many locations, even in A, are completely blocked (often by dangerous defenses) and require a key to access.
-* Each tower is large enough to house a city state or two, but they're mostly abandoned. 
+* Each tower is large enough to house a city state or two, but they're mostly abandoned.
 
 ### Details
 
@@ -140,13 +142,13 @@ AC \[12]. Weapons (often poisoned): bow, blowgun, dagger. Surprise on a 4-6. Nea
 ### Base level
 
 * automated defenses. The one at A is deactivated or destroyed.
-* Unhinged ai god faction. Robots and cyborgs that are under direct ai control. 
+* Unhinged ai god faction. Robots and cyborgs that are under direct ai control.
 
 ### Upper level
 
 * contains hidden wonders: archives, cultural texts, and manuals.
 * connects all highrises to each other
-* houses a civilization of isolationist engineers who understand most of the city's technology and guard it closely, including a huge library of ordinary books, but especially manuals. They do not attach religious significance to technology or books. 
+* houses a civilization of isolationist engineers who understand most of the city's technology and guard it closely, including a huge library of ordinary books, but especially manuals. They do not attach religious significance to technology or books.
 *
 
 ### Rumored  Magnificent Treasures of the Towers
@@ -192,9 +194,9 @@ The buildings nearby are generally under 10 stories tall. Unsealed buildings hou
 * Damaged gear from other parties.
 * Hazard suit with ½ damage reduction or full immunity on a Save v. Breath against acid and similar corrosive substances.
 * Collar. When worn, spinal needle extends, injecting the wearer with a chemical that causes melee attacks against any living creature within 30’ at +2 Attack, +2 Damage, but -2 AC.  To avoid continued attacks, the victim may Save once a round.
-* Drain Cleaner -  save or take 4D6 disintegration damage. Applies to organic matter. 
-* Bomb. May be set to explode after 1D4 rounds. 30’ radius. Kills any human-sized target that fails a save vs. spells and 2D6 damage to those who succeed. 
-* Filter will turn any water-based liquid (wine, slime) into water. 
+* Drain Cleaner -  save or take 4D6 disintegration damage. Applies to organic matter.
+* Bomb. May be set to explode after 1D4 rounds. 30’ radius. Kills any human-sized target that fails a save vs. spells and 2D6 damage to those who succeed.
+* Filter will turn any water-based liquid (wine, slime) into water.
 * Belt with heavy box buckle with a switch on it. Envelops wearer in tinted field that obscures physical features. AC+2 against ranged and AC+1 against melee. Lasts 1d6 hours.
 
 Every item has a 1 in 20 chance of being cursed. Cursed items :
