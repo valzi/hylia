@@ -1,3 +1,7 @@
+//Eleventy nesting toc plugin
+const pluginTOC = require('eleventy-plugin-nesting-toc');
+
+
 const rssPlugin = require('@11ty/eleventy-plugin-rss');
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const fs = require("fs");
@@ -55,6 +59,8 @@ module.exports = function(config) {
   // Plugins
   config.addPlugin(rssPlugin);
   config.addPlugin(syntaxHighlight);
+  //Eleventy nesting toc plugin
+  config.addPlugin(pluginTOC);
 
   // 404 
   config.setBrowserSyncConfig({

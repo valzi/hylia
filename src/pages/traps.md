@@ -1,3 +1,5 @@
+## Traps
+
 1. Open pit onto deadly spikes. Both sides of the pit are sloped into it and greased up.
 2. Concealed pit into piranha-filled water.
 3. Metal sword audibly humming, hooked up to electric charge.

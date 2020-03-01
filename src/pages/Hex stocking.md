@@ -2,7 +2,7 @@
 
 every hex is difficult terrain, except a clear road through the city.  Most groups start at hex A.
 
-  Major features can be encountered just by traversing the hex; if a group performs a detailed search, make a roll on the minor feature table to see if something unusual has been discovered.  It takes 8 hours to search a hex.
+Major features can be encountered just by traversing the hex; if a group performs a detailed search, make a roll on the minor feature table to see if something unusual has been discovered.  It takes 8 hours to search a hex.
 
 Major Features (roll d10 with modifiers)
 1-3 Excavation
