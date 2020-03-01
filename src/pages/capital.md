@@ -129,7 +129,7 @@ AC \[12]. Weapons (often poisoned): bow, blowgun, dagger. Surprise on a 4-6. Nea
 
 * Sealed floors, broken elevators, collapsed stairwells, etc. connect between one highrise and the next. They're often intentionally barricaded or caved in.
 * Navigating occasionally requires parkour, bridge-building, climbing, or the use of a zip line.
-* It's not a city anymore. It's a claustrophobic, half-vertical wilderness with occasional settled spaces. `(It's a point-crawl dungeon.)`
+* It's not a city anymore. It's a claustrophobic, half-vertical wilderness with occasional settled spaces.
 * Many locations, even in A, are completely blocked (often by dangerous defenses) and require a key to access.
 * Each tower is large enough to house a city state or two, but they're mostly abandoned. 
 
