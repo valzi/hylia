@@ -44,7 +44,7 @@ module.exports = function(value, outputPath) {
         const headingSlug = slugify(heading.textContent.toLowerCase());
         const anchor = document.createElement('a');
 
-        anchor.setAttribute('href', `#heading-${headingSlug}`);
+//        anchor.setAttribute('href', `#heading-${headingSlug}`);
         anchor.classList.add('heading-permalink');
         anchor.innerHTML = minify(`
         <span class="visually-hidden"> permalink</span>
