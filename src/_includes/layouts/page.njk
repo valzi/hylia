@@ -9,9 +9,11 @@
 
     <article class="[ post ] [ h-entry ]">
       {% include "partials/components/intro.njk" %}
-	  	    <aside>
-	    {{ content | toc | safe }}
-        </aside>
+  <aside style="font-style:italic;
+			float:right;width:20%;
+			border:1px solid">
+   {{ content | toc | safe }}
+  </aside>
       <div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 pad-bottom-900 text-500 ] [ sf-flow ] [ e-content ]">
         {{ content | safe }}
       </div>

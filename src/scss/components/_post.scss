@@ -34,6 +34,12 @@
       text-decoration: underline;
     }
 
+aside {
+	font-style:italic;
+	float:right;width:20%;
+	border:1px solid;
+}
+
     code {
       font-size: 1.0em;
       color: var(--color-light);
