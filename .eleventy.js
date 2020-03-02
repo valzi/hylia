@@ -59,8 +59,20 @@ module.exports = function(config) {
   // Plugins
   config.addPlugin(rssPlugin);
   config.addPlugin(syntaxHighlight);
+  
   //Eleventy nesting toc plugin
-  config.addPlugin(pluginTOC);
+  config.addPlugin(pluginTOC, {tags: ['h2']});
+  
+  // Example Markdown configuration (to add IDs to the headers)
+    const markdownIt = require('markdown-it');
+  const markdownItAnchor = require('markdown-it-anchor');
+  config.setLibrary("md",
+      markdownIt({
+          html: true,
+          linkify: true,
+          typographer: true,
+      }).use(markdownItAnchor, {})
+  );
 
   // 404 
   config.setBrowserSyncConfig({
