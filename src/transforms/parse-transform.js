@@ -45,7 +45,7 @@ module.exports = function(value, outputPath) {
         const anchor = document.createElement('a');
 
 //        anchor.setAttribute('href', `#heading-${headingSlug}`);
-        anchor.classList.add('heading-permalink');
+//        anchor.classList.add('heading-permalink');
         anchor.innerHTML = minify(`
         <span class="visually-hidden"> permalink</span>
         <svg fill="currentColor" aria-hidden="true" focusable="false" width="1em" height="1em" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
