@@ -27,6 +27,8 @@ Key:  `Text like this needs editing or additional detail.`
 
 ## Access (Capital Access City)
 
+![Access](/images/access.png)
+
 * Capital Access City is better known as "Access."
 * Economy is built on trade of items and information from the Capital and services for those who wish to explore/scavenge it. Many factions and individual patrons due to "gold rush" competitiveness/excitement/greed.
 * Limited resources. Most goods are at a high cost.
@@ -34,8 +36,6 @@ Key:  `Text like this needs editing or additional detail.`
 * Local merchants usually pay 60% of value for goods they're interested in and then export for resale.
 * Local faction provides access to dungeon entrance and passage back out as a paid service.
 * A giant burning tire heap. the city threatens to remove the tire heap as it's a blight on the city but armed residents fight back as they use the tires for fuel during the winter.
-
-![Access](/images/access.png)
 
 ### Government
 
@@ -53,28 +53,29 @@ Called upon only for mediation of disagreements.
 
 ## Capital Wilderness
 
-* A is easily reached from the city. Walking to the outside of E is more dangerous than traveling through the other highrises, if you have keys to move through them and know how to do so. There are even subways that will swiftly move you through, if you have a key to the building you intend to go to AND a key to access the subway.
+* A is easily reached from the city. Walking to the outside of E is more dangerous than traveling through the other highrises, if you have keys to move through them and know how to do so. 
 * Maybe there is something great past E, outdoors? Create rumors and an actual thing.
+* Red domed structures to the east with no entrance except by subway.
 
 ### Wilderness encounters
 
-#### 1. excavators
+#### 1. Excavators
 
 1, Fighter party with excavation equipment (shovels, picks, etc). AC 14, HD 1, Att 1 × weapon (1d6), ML 7
 
-#### 2. polar bears
+#### 2. Polar bears
 
 1, Polar Bear: HD 7; AC \[13]; Atk 2 claws (1d6+1), 1 bite (1d10+1); Special: When hitting with both claws, they hug for 3d6 points of damage.
 
-#### 3. gang
+#### 3. Gang
 
 1, undisciplined gang, patrols the area, attempting to kill anyone they consider "a threat to the expedience of our Lord's extraction of the material." They sound like a cult, but they're paid in drugs (which make them stupid and temperamental) to guard the area against anyone who doesn't benefit their boss. 1d12 members present. 1 HD. 3 HP.
 
-#### 4. drone
+#### 4. Drone
 
 1,1 drone attempts to stay out of reach but watches party. Allows a rival party or cyborgs to ambush if it's not evaded or destroyed in d4+3 turns. AC 16.
 
-#### 5. bandits
+#### 5. Bandits
 
 1, Bandits: 3d12 thieves who ambush and loot other explorers, killing them if afraid to let them live or if they're uncooperative. - prepare ambush near well-traveled area - traps - false retreats - imply smaller or larger force than is really there - archers in trees - kill powerful victims first. Motivations: money, reputation, hedonism.
 
@@ -85,17 +86,17 @@ AC: leather HD 1 1. club 2. axe 3. sword 4.spear and a 1. bow. 2. blunderbuss. 3
 * For every 100 bandits, one will be an 8th level engineer or caster.
 * All leveled bandits are leaders and have a 1 in 10 chance of carrying magical equipment.
 
-#### 6. tainted explorer
+#### 6. Tainted explorer
 
 1, Insane and murderous but very genial, lone explorer. HD1. Laser pistol. Has \[artifact]
 
-#### 7. owlbears
+#### 7. Owlbears
 
 1, 2D6 Owlbears. Tracking, circling, and distracting with quizzical hooting and then rushing from the flank to grab.
 
 HD 5+1; AC \[14]; Atk 2 claws (1d6), 1 bite (2d6); Special: hug for additional 2d8 if attack roll is 2-.
 
-#### 8. cyborgs
+#### 8. Cyborgs
 
 1, 1d6 Cyborgs. Connect the AI to everything. Corpses with cybernetics keeping them alive. "Killed" ones are collected and transported to nearest surgical cube (in a tower) for repair.
 
@@ -103,11 +104,11 @@ Lights glowing underneath their skin, like strips of LEDs. Power source powers a
 
 HD 3; AC \[14]; Atk 1 syringe attachment (1hp + level drain); hit only by magic or silver weapons. Special: Those with max Grit carry a powerful artifact.
 
-#### 9. half-cyborgs
+#### 9. Half-cyborgs
 
 1, 1d6 Half cyborgs. AC \[12], HD 1+1, Atk: Weapon, ML 8 (Special. Enter a blind rage during combat and never check morale) +2 ATK rolls.
 
-#### 10. lurkers
+#### 10. Lurkers
 
 1, Lurkers  Attempt to kill from a distance without engaging in combat. - Magical artifacts are objects of terror in their hands. - They set deadly traps and keep snipers near their territory. - Stealthy (often wear black at night and camouflage in the day)
 
@@ -135,14 +136,14 @@ AC \[12]. Weapons (often poisoned): bow, blowgun, dagger. Surprise on a 4-6. Nea
 * Many locations, even in A, are completely blocked (often by dangerous defenses) and require a key to access.
 * Each tower is large enough to house a city state or two, but they're mostly abandoned.
 
-### Details
-
-*
-
 ### Base level
 
 * automated defenses. The one at A is deactivated or destroyed.
 * Unhinged ai god faction. Robots and cyborgs that are under direct ai control.
+
+### Basement
+
+Subway tunnels. Excellent way to move between towers if you have a key to the building you intend to go to. There's also a set of keys that will allow the train to move between buildings.
 
 ### Upper level
 
@@ -163,7 +164,7 @@ The buildings nearby are generally under 10 stories tall. Unsealed buildings hou
 
 ### Utility Treasure
 
-* Human-sized fixture (resembles a shower) with indentations for feet in the floor and head in the wall. Many pencil-sized holes. If a character stands on the indentations, mechanical arms perform one of the following operations:
+* Human-sized fixture (resembles a shower) with indentations for feet in the floor and head in the wall. Many pencil-sized holes. If a character stands on the indentations, mechanical arms perform one of the following operations (1d6):
 
   1. Electrical malfunction - shocks anyone within 5' for 1d8.
   2. Implants AI in brain, alongside recipient's mind
@@ -255,3 +256,5 @@ Every item has a 1 in 20 chance of being cursed. Cursed items :
 [System Shock 1](https://www.gog.com/game/system_shock_enhanced_edition)
 
 [Black City](http://3.bp.blogspot.com/_cZ56RNjccUE/TSD7vQrpycI/AAAAAAAAACo/S9nJ80D2rH4/s1600/BlackCityCrossSection.jpg)
+
+S.T.A.L.K.E.R.
