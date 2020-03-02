@@ -1,188 +1,202 @@
-.post {
-
-  &__body {
-    --flow-space: #{get-size(800)};
-
-    /**
-     * Generic HTML styles 
-     */
-    h2 + *,
-    h3 + * {
-      --flow-space: #{get-size(500)};
-    }
-
-    h2,
-    h3 {
-      position: relative;
-      /*display: flex;*/
-
-      @include apply-utility('leading', 'tight');
-    }
-
-    a:not([class]) {
-      color: var(--color-primary);
-      position: relative;
-      display: inline;
-      background: var(--color-theme-highlight);
-      padding: 0.2rem 0.4rem 0.3rem 0.4rem;
-      text-decoration: none;
-      word-break: break-word;
-
-      @include apply-utility('leading', 'tight');
-    }
-
-    a:not([class]):hover {
-      text-decoration: underline;
-    }
-
-aside {
-	font-style:italic;
-	float:right;width:20%;
-	border:1px solid;
+.post
+{
+  __body--flow-space:#{get-size(800);
 }
 
-    code {
-      font-size: 1.0em;
-      color: var(--color-light);
-      background-color: var(--color-dark);
-      font-weight: 300;
-      margin-left: 0.01ch;
-      margin-right: 0.01ch;
-    }
-
-    pre > code {
-      margin-right: 0;
-      border: 1px solid rgba(255, 255, 255, 0.1);
-      overflow-x: auto;
-      -webkit-overflow-scrolling: touch;
-    }
-
-    blockquote {
-      border-left: 0.4rem solid black;
-      margin-left: 0;
-      padding-left: get-size(500);
-      font-size: get-size(500);
-	  background-color: var(--color-primary-glare);
-	  color: var(--color-slate);
-
-      p {
-        opacity: 0.85;
-        padding: get-size(500) 0;
-      } 
-    }
-	blockquote a {
-		background-color: var(--color-primary-glare);
-	}
-
-    ol:not([class]),
-    ul:not([class]) {
-      margin-left: get-size(800);
-
-      li + li {
-        margin-top: get-size(300);
-      }
-    }
-
-table, th, td {
-  border: 0.2px solid black;
-  border-collapse: collapse;
-  padding-left: 5px;
-  padding-right: 5px;
-  padding-top: 0px;
-  padding-bottom: 0px;
+;
+/**
+* Generic HTML styles */
+h2 + *,h3 + *
+{
+  --flow-space:#{get-size(500);
+}  
 }
 
-table {
-	overflow-x: auto;
-}
-.post__body table{
-	overflow-x: auto;
+h2,h3
+{
+  position:relative;
+/*display: flex;*/
 }
 
-tr:nth-child(even) {background: #d8b78e}
-tr:nth-child(odd) {background: #FFF}
+a:not([class])
+{
+  color:var(--color-primary);
+  position:relative;
+  display:inline;
+  background:var(--color-theme-highlight);
+  padding:.2rem .4rem .3rem;
+  text-decoration:none;
+  word-break:break-word;
+}
+
+a:not([class]):hover
+{
+  text-decoration:underline;
+}
+
+aside
+{
+  font-style:italic;
+  float:right;
+  width:20%;
+  border:1px solid;
+}
+
+code
+{
+  font-size:1em;
+  color:var(--color-light);
+  background-color:var(--color-dark);
+  font-weight:300;
+  margin-left:.01px;
+  margin-right:.01px;
+}
+
+pre > code
+{
+  margin-right:0;
+  border:1px solid rgba(255,255,255,0.1);
+  overflow-x:auto;
+  -webkit-overflow-scrolling:touch;
+}
+
+blockquote
+{
+  border-left:.4rem solid #000;
+  margin-left:0;
+  padding-left:get-size(500);
+  font-size:get-size(500);
+  background-color:var(--color-primary-glare);
+  color:var(--color-slate);
+  popacity:0.85;
+  padding:get-size(500) 0;
+}  
+}
+
+blockquote a
+{
+  background-color:var(--color-primary-glare);
+}
+
+ol:not([class]),ul:not([class])
+{
+  margin-left:get-size(800);
+  lilimargin-top:get-size(300);
+}  
+}
+
+table,th,td
+{
+  border:.2px solid #000;
+  border-collapse:collapse;
+  padding-left:5px;
+  padding-right:5px;
+  padding-top:0;
+  padding-bottom:0;
+}
+
+table
+{
+  overflow-x:auto;
+}
+
+.post__body table
+{
+  overflow-x:auto;
+}
+
+tr:nth-child(even)
+{
+  background:#d8b78e;
+}
+
+tr:nth-child(odd)
+{
+  background:#FFF;
+}
 
 /* The LazyImages plugin will automatically set the width and height attributes for each image based on the source image dimensions. You might want to overwrite this with the following CSS. This will ensure the image is never wider than its container and the aspect ratio is maintained. */
-
-img {
-  display: block;
-  width: 100%;
-  max-width: 100%;
-  height: auto;
-}
-/* End of LazyImages adjustment. */ 
-
-    figure,
-    figure + *,
-    pre > code,
-    .video-player,
-    .video-player + *,
-    video {
-      --flow-space: #{get-size('max')};
-    }
-
-    figure,
-    pre > code,
-    .video-player,
-    video {
-      width: 100vw;
-      max-width: map-get($metrics, 'wrap-max-width');
-      margin-left: 50%; /*changing this value to 47% removes the horizontal scrollbar once the viewport is < 930px */
-      transform: translateX(
-        -50%
-      ); /* changing this value to 49% allows for the suggestion above to also eliminate the horizontal scroll. */
-      position: relative;
-    }
-
-    figure img,
-    pre > code,
-    .video-player {
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
-    }
-
-    figure img {
-      position: relative;
-      z-index: 1;
-    }
-
-    figcaption {
-      font-size: 0.8em;
-      font-style: italic;
-      max-width: map-get($metrics, 'wrap-inner-max-width');
-      margin: 0.5rem auto 0 auto;
-      padding: 0 get-size(500);
-    }
-
-    pre > code {
-      display: block;
-      background: var(--color-dark);
-      padding: get-size(700);
-      font-size: get-size(500);
-    }
-  }
-
-  &__footer {
-    background: var(--color-theme-highlight);
-
-    h2 {
-      flex-shrink: 0;
-      margin-right: get-size('base');
-      color: var(--color-dark);
-    }
-
-    h2 a {
-      @extend %visually-hidden;
-    }
-
-    a {
-      background: var(--color-bg);
-	  color: var(--color-primary);
-      padding: 0.4rem 0.2rem;
-    }
-  }
+img
+{
+  display:block;
+  width:100%;
+  max-width:100%;
+  height:auto;
 }
 
-nav.toc ol li {
-  list-style-type: none;
-  padding-left: 1.5em;
+/* End of LazyImages adjustment. */
+figure,figure + *,pre > code,.video-player,.video-player + *,video
+{
+  --flow-space:#{get-size(max);
+}  
+}
+
+figure,pre > code,.video-player,video
+{
+  width:100vw;
+  max-width:map-get($metrics,'wrap-max-width');
+  margin-left:50%;
+/*changing this value to 47% removes the horizontal scrollbar once the viewport is < 930px */
+  transform:translateX(-50%);
+/* changing this value to 49% allows for the suggestion above to also eliminate the horizontal scroll. */
+  position:relative;
+}
+
+figure img,pre > code,.video-player
+{
+  box-shadow:0 10px 30px rgba(0,0,0,0.15);
+}
+
+figure img
+{
+  position:relative;
+  z-index:1;
+}
+
+figcaption
+{
+  font-size:.8em;
+  font-style:italic;
+  max-width:map-get($metrics,'wrap-inner-max-width');
+  margin:.5rem auto 0;
+  padding:0 get-size(500);
+}
+
+pre > code
+{
+  display:block;
+  background:var(--color-dark);
+  padding:get-size(700);
+  font-size:get-size(500);
+}  
+}
+
+&__footer
+{
+  background:var(--color-theme-highlight);
+  h2flex-shrink:0;
+  margin-right:get-size(base);
+  color:var(--color-dark);
+}
+
+h2 a
+{
+}
+
+a
+{
+  background:var(--color-bg);
+  color:var(--color-primary);
+  padding:.4rem .2rem;
+}  
+}
+
+  
+}
+
+nav.toc ol li
+{
+  list-style-type:none;
+  margin:0;
+  padding-left:1.5em;
 }
