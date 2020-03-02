@@ -64,15 +64,15 @@ module.exports = function(config) {
   config.addPlugin(pluginTOC, {tags: ['h2']});
   
   // Example Markdown configuration (to add IDs to the headers)
-    const markdownIt = require('markdown-it');
-  const markdownItAnchor = require('markdown-it-anchor');
-  config.setLibrary("md",
-      markdownIt({
-          html: true,
-          linkify: true,
-          typographer: true,
-      }).use(markdownItAnchor, {})
-  );
+//    const markdownIt = require('markdown-it');
+//  const markdownItAnchor = require('markdown-it-anchor');
+//  config.setLibrary("md",
+//      markdownIt({
+//         html: true,
+//          linkify: true,
+//         typographer: true,
+//      }).use(markdownItAnchor, {})
+//  );
 
   // 404 
   config.setBrowserSyncConfig({
