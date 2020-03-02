@@ -61,7 +61,7 @@ module.exports = function(config) {
   config.addPlugin(syntaxHighlight);
   
   //Eleventy nesting toc plugin
-  config.addPlugin(pluginTOC, {tags: ['h2']});
+  config.addPlugin(pluginTOC, {tags: ['h2', 'h3']});
   
   // Example Markdown configuration (to add IDs to the headers)
     const markdownIt = require('markdown-it');
