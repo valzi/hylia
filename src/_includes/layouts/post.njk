@@ -16,9 +16,7 @@
   <main id="main-content" tabindex="-1">
     <article class="[ post ] [ h-entry ]">
       {% include "partials/components/intro.njk" %}
-  <aside style="font-style:italic;
-			float:right;width:20%;
-			border:1px solid">
+  <aside>
    {{ content | toc | safe }}
   </aside>
       <div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-100 {{ 'pad-bottom-900' if not site.enableThirdPartyComments }} text-500 ] [ sf-flow ] [ e-content ]">
