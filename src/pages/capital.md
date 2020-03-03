@@ -230,20 +230,6 @@ Just north of Access. Many know important details, but much information is guard
 
 The buildings nearby are generally under 10 stories tall. Unsealed buildings house bandits and monsters.
 
-| 1d8                       |      |
-| ------------------------- | ---- |
-| 1 Cyborgs                 |      |
-| 2 Defenders               |      |
-| 3 Avatar                  |      |
-| 4 Spy Drone               |      |
-| 5 Repair Drone            |      |
-| 6 Children of the Capital |      |
-| 7 Cultists                |      |
-| 8 Rival Party             |      |
-|                           |      |
-
-
-
 #### Wandering Monsters 1d8
 
 ##### 1 Cyborgs
@@ -286,6 +272,9 @@ Ignores lifeforms unless attacked. Repairs items that are not held. 1d4+1 if any
 Worship the AI and consider the elders in the top level to be prophet-gods. Cultists avoid body modification by service to the AI.
 
 ##### 8 Rival party
+
+### Tower A Map
+![capital_tower_A](/images/capital_tower_A.jpg)
 
 ### Tower A Map Key
 
