@@ -11,7 +11,7 @@ Key:  `Text like this needs editing or additional detail.`
 
 ### What Was
 
-* Over 200 years ago, two Empires formed a treaty agreeing that neither would interfere with this contested planet, that it would simply be ignored.
+* Sometime more than 200 years ago, 2 empires formed a treaty agreeing that neither would interfere with this previously-contested planet; it would simply be ignored.
 * Criminals, anarchists, religious extremists, and other desperate folk fled to it as a safe haven, but they had no way of maintaining tech, mostly due to lack of expertise.
 * Constant upheaval of government, gang warfare, and philosophical movements against various kinds of knowledge removed what little stability remained.
 
@@ -230,7 +230,21 @@ Just north of Access. Many know important details, but much information is guard
 
 The buildings nearby are generally under 10 stories tall. Unsealed buildings house bandits and monsters.
 
-#### Wandering Monsters
+| 1d8                       |      |
+| ------------------------- | ---- |
+| 1 Cyborgs                 |      |
+| 2 Defenders               |      |
+| 3 Avatar                  |      |
+| 4 Spy Drone               |      |
+| 5 Repair Drone            |      |
+| 6 Children of the Capital |      |
+| 7 Cultists                |      |
+| 8 Rival Party             |      |
+|                           |      |
+
+
+
+#### Wandering Monsters 1d8
 
 ##### 1 Cyborgs
 
@@ -238,7 +252,7 @@ LCD displays text to allow conversation.
 
 Goals: 
 
-* Install tech.
+* Install tech on touch.
 * Gather allies with enhancement tech.
 * Social allies who do not accept tech are acceptable. Strongly positive interactions incur invitation to speak with AI. 
 * Kill non-allies.
@@ -246,6 +260,106 @@ Goals:
 Stats as zombie. 
 
 Tech installed in a character by a cyborg works but the character has an x-in-6 chance to become unthinking servant of AI (like the cyborgs) when tech is installed. X = the number of pieces of tech the character has installed, including the new one.
+
+##### 2 Defenders
+
+1d4 defenders. Built-in laser rifle in torso. Only attack in key-coded areas. Attack anyone not holding a matching key.
+
+##### 3 Avatar
+
+Cyborg that installs cybernetics on touch. Speaks for the AI on neutral or better reaction. Cybernetics grant new powers but become part of AI when number of cybernetic enhancements = level. Stats as wight. (1d6: 6, actually, this avatar is a gold dragon.)
+
+##### 4 Spy Drone
+
+Attempts to stay out of reach and out of sight. High-pitched, quiet whistle. Causes all AI-friendly encounters to be ambushed. 2-6 encounter chance as long as it remains near.
+
+##### 5 Repair drone
+
+Ignores lifeforms unless attacked. Repairs items that are not held. 1d4+1 if anything has been broken nearby recently.
+
+##### 6  Children of the Capital
+
+2d6 fighters. 1 has a powerful artifact and is 20 years older than the rest. Motivated to gather implants and defend tech and community. Loyal to upper floors.
+
+##### 7 Cultists
+
+Worship the AI and consider the elders in the top level to be prophet-gods. Cultists avoid body modification by service to the AI.
+
+##### 8 Rival party
+
+### Tower A Map Key
+
+#### 1
+
+This waiting room is an airlock. Both doors are smashed, leaving ample room to enter. Benches, desk, rubble, and smashed videoscreens on floor. Screen-mounting frames on the wall. 
+
+A rival party of 5 is trying to remove sand from ventilation to see why the vent is there.. Chaotic. 1 lvl 3 MU and 4 lvl 2 fighters. 
+
+NE vent is blocked up with sand; it once allowed sleeping gas to prep intruders for full cyborg conversion. If unblocked, it leads to 17.
+
+SE to 2.
+
+#### 2
+
+Motionless avatar plugged into wall station on 1' high pedestal. Rubble on floor. Looks as if concrete walls smashed that once ran N to S on western edge, originally making a hallways on the W side.
+
+S to A.
+
+#### A
+
+Corridor. 
+
+W 3. 
+
+S to 4.
+
+#### 3
+
+Cultist with gangrenous leg with incomplete mod. Was to be given partial conversion for united godhood with AI. Didn't desire this. Has a list of items owed to elders and AI. AI list has overdue items.
+
+#### 4
+
+Empty
+
+#### 5
+
+Empty storage room. Metal shelves. Inventory spiral bound notebook describing fridge foods. Very cold. Bits of torn plastic film and empty TV dinner boxes.
+
+#### 6
+
+Defender trapped in vise. Carpenter's workshop. Tampering with Defender causes floor to push against ceiling. Defender will say "We become fuel."
+
+#### 7
+
+Cultist chiseling a statue of AI branding icon into tile removed from floor. When complete, stepping on the tile will shoot syringe up through hole in tile to tranquilize for body modding.
+
+#### 8
+
+Empty workroom. Some tools.
+
+#### 9
+
+Chisel near a wall. Row of syringe tile traps. Small indentation in floor. May be intentionally stepped over. Save or sleep. If activated, cyborgs come to install tech in victims, if any.
+
+#### 10
+
+Can feel a gust of wind at back upon entering as the door seals shut. All air is sucked out through vents in each corner of ceiling in 1 turn (10 minutes.)
+
+Doors are stuck. Open on 1 on 1d6. (2 if over 15 str or 2 working together.) 
+
+Little treasure against northern wall. 
+
+#### 11
+
+Gas enters the room (as a Sleep spell. Save.) and 1d6 Children of the Capital arrive in 1d4 turns to remove tech, especially implants.
+
+#### 12
+
+Defender constantly, noisily blasting laser at destroyed chest of corpse on floor. It's saying "access denied" before each shot.
+
+#### 13
+
+Empty storage room. Secret doors look exactly like other walls but sound hollow if hit. Sliding doors. Touch key to them to open.
 
 ### Utility Treasure
 
