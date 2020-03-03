@@ -37,15 +37,15 @@ Key:  `Text like this needs editing or additional detail.`
 * Local faction provides access to dungeon entrance and passage back out as a paid service.
 * A giant burning tire heap. the city threatens to remove the tire heap as it's a blight on the city but armed residents fight back as they use the tires for fuel during the winter.
 
-### Daily chaos check
+### Daily chaos event check
 
 **Chaos**
 
 1 ☐ 2 ☐ 3 ☐ 4 ☐ 5 ☐ 6 ☐ 7 ☐ 8 ☐ 9 ☐
 
-Each time the players do something that would increase instability in the city, fill in another box. Then roll on the matching table below.
+Each time the players do something that would increase instability in the city, fill in another box. If they improve things, erase a filled box. Each day that they are in the city, roll on the matching table below.
 
-#### 1-2
+#### Chaos 1-2
 
 | 1d6+Chaos | Event                                                        |
 | --------- | ------------------------------------------------------------ |
@@ -53,7 +53,7 @@ Each time the players do something that would increase instability in the city, 
 | 3-4       | Reaction rolls are more intense. Negative reactions are one step worse and positive reactions are one step better. |
 | 5-6       | 1d6 factions are sponsoring a lottery. Winner skips initiation. |
 
-#### 3-5
+#### Chaos 3-5
 
 | 1d12  | Event                                                     |
 | ----- | --------------------------------------------------------- |
@@ -68,7 +68,7 @@ Each time the players do something that would increase instability in the city, 
 | 9     | Unrest.                                                   |
 | 10-12 | Rival party succeeded at something.                       |
 
-#### 6-9
+#### Chaos 6-9
 
 | 1d10 | Event                                                        |
 | ---- | ------------------------------------------------------------ |
@@ -238,7 +238,7 @@ The buildings nearby are generally under 10 stories tall. Unsealed buildings hou
   2. Implants AI in brain, alongside recipient's mind
   3. Transfers tech knowledge to recipient's mind. (Each station only has one set of information.)
   4. Amputates limb and replaces with cybernetic limb of great strength. (Does not modify stats, but is quite handy in relevant situations.)
-  5. Something is place in the character's head, increasing their Intelligence by 1 point.
+  5. Something is placed in the character's head, increasing their Intelligence by 1 point.
   6. Character no longer needs to breathe.
 * Oxygen tank and mask.
 * Chimes of unique timbres.
