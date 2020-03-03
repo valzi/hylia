@@ -37,6 +37,52 @@ Key:  `Text like this needs editing or additional detail.`
 * Local faction provides access to dungeon entrance and passage back out as a paid service.
 * A giant burning tire heap. the city threatens to remove the tire heap as it's a blight on the city but armed residents fight back as they use the tires for fuel during the winter.
 
+### Daily chaos check
+
+**Chaos**
+
+1 ☐ 2 ☐ 3 ☐ 4 ☐ 5 ☐ 6 ☐ 7 ☐ 8 ☐ 9 ☐
+
+Each time the players do something that would increase instability in the city, fill in another box. Then roll on the matching table below.
+
+#### 1-2
+
+| 1d6+Chaos | Event                                                        |
+| --------- | ------------------------------------------------------------ |
+| 1-2       | Nothing                                                      |
+| 3-4       | Reaction rolls are more intense. Negative reactions are one step worse and positive reactions are one step better. |
+| 5-6       | 1d6 factions are sponsoring a lottery. Winner skips initiation. |
+
+#### 3-5
+
+| 1d12  | Event                                                     |
+| ----- | --------------------------------------------------------- |
+| 1     | Beggars become violent and plentiful.                     |
+| 2     | Drunks/druggies are out and behaving inappropriately.     |
+| 3     | City takes 25% tax of all carried possessions by mugging. |
+| 4     | Minor disease going around.                               |
+| 5     | Faction hostilities.                                      |
+| 6     | Outsiders make demands.                                   |
+| 7     | Faction develops new traits.                              |
+| 8     | Theft attempts.                                           |
+| 9     | Unrest.                                                   |
+| 10-12 | Rival party succeeded at something.                       |
+
+#### 6-9
+
+| 1d10 | Event                                                        |
+| ---- | ------------------------------------------------------------ |
+| 1    | Assassination attempt against faction leader                 |
+| 2    | Wilderness encounters are now rolled per turn in the city at night |
+| 3    | Ghost in random building                                     |
+| 4    | New temple to AI in tower A. Contains cyborg builder and normal surgical unit. Loyal aren't converted to cyborgs. Enemies are sacrificed. |
+| 5-7  | Petty god arrives from the other continent or from the tower. |
+| 8    | Food shortage                                                |
+| 9    | Flooding or fire badly damages or destroys a building and kills 1d20. Then roll 1d6. On a 5-6, return to the beginning of this line. (Continue repeating until the d6 does not produce a 5 or 6.) At least one of the dead will be a named NPC. |
+| 10   | The party's abode is burgled while they are out.             |
+
+
+
 ### Government
 
 Called upon only for mediation of disagreements.
@@ -49,7 +95,29 @@ Called upon only for mediation of disagreements.
 
 ### Factions
 
-[See here](https://docs.google.com/document/d/12msnB7Jky8AKm_qQEP6f64XHtKMYlZBKC3w_pvhp4uA/edit#heading=h.b7i6h7edjjn4).
+1. Scavengers of open spaces. Know future. Camel aspect. Honest. Allied with 2.
+2. Mafia/beast trainers. Disposable effort. Theoretical work. Want to possess 3. Cockroach aspect. Cheerful.
+3. Public librarians under evil influence. Brutal. Avoid sunlight. Organized. Clean. Previously betrayed 5. Bear aspect. Trusting.
+4. Seers (secretly witches.) Cannot predict future. Loyal to coven from the other continent. Ally to 6. Pretending to be church oracles. Rooster aspect. Brave. Stealing from library for homeland.
+5. Builders restoring the Capital's structures. Hires other factions when possible. Outsources. Requires removal of minor body part to join. Supplies 6. Bear aspect.
+6. Church crusaders. Calming. Abrupt. Respects 4. Wants to own 2. Crocodile aspect. Prankish.
+
+[See here](https://docs.google.com/document/d/12msnB7Jky8AKm_qQEP6f64XHtKMYlZBKC3w_pvhp4uA/edit#heading=h.b7i6h7edjjn4) for more.
+
+### Access Encounters
+
+1. Nothing
+2. Crowd
+3. 2d6 wealthy hecklers. AC 12. HD1. Rapiers.
+4. 1d4 Inviting, flirtatious, generous drunks.
+5. 1d10+1 arguing people. d6: 1-3 annoying. 4: one side attacks party if the party engages. 5-6 Attack each other after a bit.
+6. Escaped, trained monster. d10 1-7: tame. 8-10: wild and defensive.
+7. Temple donation collector. 10 gold each. If donation is not made, foreheads are stamped and -2 to reaction rolls. Accompanied by 1d6+1 guards.
+8. Terrified woman who says she's being stalked by very clever orphans she neglected. Chaos > 5 = she's correct. 1d6 orphans. AC 11. HD2. Invisible when in shadows. They set traps and blow poison darts (paralyze 1d6 turns in agonizing pain that reduces CON by 1.)
+9. Assassin who will attempt to kill 1 party member in an isolated place. Requires reason for bounty to exist. If none exist, reroll. (Every other party is a rival...)
+10. Pickpocket. Will attempt to pick the pockets of d4 party members.
+11. Temple Priest holds a device that looks like a gameboy and has a cracked screen. Offers to use it to consecrate party and ensure their protection. Says it is a key in the dungeon. The priest is lying. If chaos is 3-4, it contains a tracker. If chaos is 5 or greater, it contains an explosive that will do 6d6 damage if jostled.
+12. Beggars beg.
 
 ## Capital Wilderness
 
