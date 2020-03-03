@@ -1,7 +1,6 @@
 //Eleventy nesting toc plugin
 const pluginTOC = require('eleventy-plugin-nesting-toc');
 
-
 const rssPlugin = require('@11ty/eleventy-plugin-rss');
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const fs = require("fs");
@@ -18,82 +17,83 @@ const parseTransform = require('./src/transforms/parse-transform.js');
 // Import data files
 const site = require('./src/_data/site.json');
 
-module.exports = function(config) {
-  // Filters
-  config.addFilter('dateFilter', dateFilter);
-  config.addFilter('markdownFilter', markdownFilter);
-  config.addFilter('w3DateFilter', w3DateFilter);
+module.exports = function (config) {
+    // Filters
+    config.addFilter('dateFilter', dateFilter);
+    config.addFilter('markdownFilter', markdownFilter);
+    config.addFilter('w3DateFilter', w3DateFilter);
 
-  // Layout aliases
-  config.addLayoutAlias('home', 'layouts/home.njk');
+    // Layout aliases
+    config.addLayoutAlias('home', 'layouts/home.njk');
 
-  // Transforms
-  config.addTransform('htmlmin', htmlMinTransform);
-  config.addTransform('parse', parseTransform);
+    // Transforms
+    config.addTransform('htmlmin', htmlMinTransform);
+    config.addTransform('parse', parseTransform);
 
-  // Passthrough copy
-  config.addPassthroughCopy('src/fonts');
-  config.addPassthroughCopy('src/images');
-  config.addPassthroughCopy('src/js');
-  config.addPassthroughCopy('src/admin/config.yml');
-  config.addPassthroughCopy('src/admin/previews.js');
-  config.addPassthroughCopy('node_modules/nunjucks/browser/nunjucks-slim.js');
-  config.addCollection('tagList', require('./_11ty/getTagList'));
+    // Passthrough copy
+    config.addPassthroughCopy('src/fonts');
+    config.addPassthroughCopy('src/images');
+    config.addPassthroughCopy('src/js');
+    config.addPassthroughCopy('src/admin/config.yml');
+    config.addPassthroughCopy('src/admin/previews.js');
+    config.addPassthroughCopy('node_modules/nunjucks/browser/nunjucks-slim.js');
+    config.addCollection('tagList', require('./_11ty/getTagList'));
 
-  const now = new Date();
+    const now = new Date();
 
-  // Custom collections
-  const livePosts = post => post.date <= now && !post.data.draft;
-  config.addCollection('posts', collection => {
-    return [
-      ...collection.getFilteredByGlob('./src/posts/*.md').filter(livePosts)
-    ].reverse();
-  });
+    // Custom collections
+    const livePosts = post => post.date <= now && !post.data.draft;
+    config.addCollection('posts', collection => {
+        return [
+            ...collection.getFilteredByGlob('./src/posts/*.md').filter(livePosts)
+        ].reverse();
+    });
 
-  config.addCollection('postFeed', collection => {
-    return [...collection.getFilteredByGlob('./src/posts/*.md').filter(livePosts)]
-      .reverse()
-      .slice(0, site.maxPostsPerPage);
-  });
+    config.addCollection('postFeed', collection => {
+        return [...collection.getFilteredByGlob('./src/posts/*.md').filter(livePosts)]
+        .reverse()
+        .slice(0, site.maxPostsPerPage);
+    });
 
-  // Plugins
-  config.addPlugin(rssPlugin);
-  config.addPlugin(syntaxHighlight);
-  
-  //Eleventy nesting toc plugin
-  config.addPlugin(pluginTOC, {tags: ['h2', 'h3']});
-  
-  // Example Markdown configuration (to add IDs to the headers)
+    // Plugins
+    config.addPlugin(rssPlugin);
+    config.addPlugin(syntaxHighlight);
+
+    //Eleventy nesting toc plugin
+    config.addPlugin(pluginTOC, {
+        tags: ['h2', 'h3']
+    });
+
+    // Example Markdown configuration (to add IDs to the headers)
     const markdownIt = require('markdown-it');
-  const markdownItAnchor = require('markdown-it-anchor');
-  config.setLibrary("md",
-      markdownIt({
-         html: true,
-          linkify: true,
-         typographer: true,
-      }).use(markdownItAnchor, {})
-  );
+    const markdownItAnchor = require('markdown-it-anchor');
+    config.setLibrary("md",
+        markdownIt({
+            html: true,
+            linkify: true,
+            typographer: true,
+        }).use(markdownItAnchor, {}));
 
-  // 404 
-  config.setBrowserSyncConfig({
-    callbacks: {
-      ready: function(err, browserSync) {
-        const content_404 = fs.readFileSync('dist/404.html');
+    // 404
+    config.setBrowserSyncConfig({
+        callbacks: {
+            ready: function (err, browserSync) {
+                const content_404 = fs.readFileSync('dist/404.html');
 
-        browserSync.addMiddleware("*", (req, res) => {
-          // Provides the 404 content without redirect.
-          res.write(content_404);
-          res.end();
-        });
-      }
-    }
-  });
+                browserSync.addMiddleware("*", (req, res) => {
+                    // Provides the 404 content without redirect.
+                    res.write(content_404);
+                    res.end();
+                });
+            }
+        }
+    });
 
-  return {
-    dir: {
-      input: 'src',
-      output: 'dist'
-    },
-    passthroughFileCopy: true
-  };
+    return {
+        dir: {
+            input: 'src',
+            output: 'dist'
+        },
+        passthroughFileCopy: true
+    };
 };
