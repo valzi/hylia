@@ -230,6 +230,12 @@ Just north of Access. Many know important details, but much information is guard
 
 The buildings nearby are generally under 10 stories tall. Unsealed buildings house bandits and monsters.
 
+#### Wandering Monsters
+
+##### 1 Cyborgs
+
+Install tech. Gather allies with enhancement tech.
+
 ### Utility Treasure
 
 * Human-sized fixture (resembles a shower) with indentations for feet in the floor and head in the wall. Many pencil-sized holes. If a character stands on the indentations, mechanical arms perform one of the following operations (1d6):
