@@ -1,25 +1,20 @@
 {% extends 'layouts/base.njk' %}
 {% set pageType = 'Page' %}
 
-<div class="flex-grid">
-		<div class="col">
-	{# Intro content #}
-	{% set introHeading = title %}
+{# Intro content #}
+{% set introHeading = title %}
 
-	{% block content %}
-	<main id="main-content" tabindex="-1">
+{% block content %}
+<main id="main-content" tabindex="-1">
 
-		<article class="[ post ] [ h-entry ]">
-			{% include "partials/components/intro.njk" %}</div>
-
-			<div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 pad-bottom-900 text-500 ] [ sf-flow ] [ e-content ]">
-				{{ content | safe }}
-			</div>
-		</div>
-		<div class="col">
+	<article class="[ post ] [ h-entry ]">
+		{% include "partials/components/intro.njk" %}
+		<aside>
 			{{ content | toc | safe }}
+		</aside>
+		<div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 pad-bottom-900 text-500 ] [ sf-flow ] [ e-content ]">
+			{{ content | safe }}
 		</div>
 	</article>
-</div>
 </main>
 {% endblock %}
