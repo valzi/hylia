@@ -234,7 +234,11 @@ The buildings nearby are generally under 10 stories tall. Unsealed buildings hou
 
 ##### 1 Cyborgs
 
-Install tech. Gather allies with enhancement tech.
+Install tech. Gather allies with enhancement tech. 
+
+
+
+Tech installed in a character by a cyborg works but the character has an x-in-6 chance to become unthinking servant of AI (like the cyborgs) when tech is installed. X = the number of pieces of tech the character has installed, including the new one.
 
 ### Utility Treasure
 
