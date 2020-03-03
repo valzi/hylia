@@ -1,12 +1,15 @@
 aside {
 	font-style:italic;
-	float:right;width:20%;
+	float:right;
+	width:20%;
 	border:1px solid;
 }
 
 @media screen and (max-width: 1080px) {
    aside {
      float: none;
+	 width: auto;
+	 border:0px solid;
    }
 }
 
