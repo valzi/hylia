@@ -17,6 +17,7 @@
 	<article class="[ post ] [ h-entry ]">
 		{% include "partials/components/intro.njk" %}
 		<aside>
+			<b>Contents</b>
 			{{ content | toc | safe }}
 		</aside>
 		<div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-100 {{ 'pad-bottom-900' if not site.enableThirdPartyComments }} text-500 ] [ sf-flow ] [ e-content ]">
