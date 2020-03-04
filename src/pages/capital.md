@@ -436,6 +436,8 @@ Every item has a 1 in 20 chance of being cursed. Cursed items :
 
 [System Shock 1](https://www.gog.com/game/system_shock_enhanced_edition)
 
-[Black City](http://3.bp.blogspot.com/_cZ56RNjccUE/TSD7vQrpycI/AAAAAAAAACo/S9nJ80D2rH4/s1600/BlackCityCrossSection.jpg)
+[Black City](http://dreamsinthelichhouse.blogspot.com/search/label/Black%20City%20Campaign)
 
-S.T.A.L.K.E.R.
+[S.T.A.L.K.E.R.](https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.)
+
+[Kowloon Walled City](https://en.wikipedia.org/wiki/Kowloon_Walled_City)
